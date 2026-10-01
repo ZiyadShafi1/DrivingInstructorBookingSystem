@@ -1,0 +1,25 @@
+🚗 Driving Instructor Feedback Report 🚗
+==================================================
+
+This report contains a summary of the faults recorded during your driving lesson.
+
+⚠ Fault Types:
+- Serious Faults (_sfault): Lead to a fail.
+- Driving Faults (_dfault): Recorded but do not immediately result in a fail.
+
+==================================================
+
+🔍 **Recorded Faults:**
+
+- Mano Control Sfault
+- Mano Obs Sfault
+- Accelerator Dfault
+- Gears Dfault
+- Neccesary Sfault
+- Correctly Sfault
+- Otherroadusers Sfault
+
+==================================================
+
+📝 **Instructor Comments:**
+No additional comments provided.
